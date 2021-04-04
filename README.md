@@ -4,7 +4,7 @@
 TIT Lab实验室发起人，四川农业大学兼职研究生导师。主要从事机器学习与模式识别、智能机器人技术、
 软件工程技术和地理人工智能（GeoAI）与时空大数据挖掘与分析等前沿交叉研究。目前发表学术论文18
 篇，申请软件著作权15项，参与编写教材4本，译著12本。详见
-Github:  https://github.com/guotao0628/CS-RM-GIS-Book/blob/master/Books.md 
+Github:  https://github.com/guotao0628/AI-ML-GISer
 
 -----------------------------------------------
 更多关于出版的相关编（译）著相关问题讨论，可提交到Github或者发Email：guotao3s@163.com.
